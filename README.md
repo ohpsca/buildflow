@@ -616,7 +616,7 @@ MIT
 
 ## Author
 
-**BowTiedSwan** - [@BowTiedSwan](https://github.com/BowTiedSwan)
+**BowTiedSwan** - [@BowTiedSwan](https://x.com/BowTiedSwan)
 
 ---
 
