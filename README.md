@@ -6,21 +6,6 @@ Found an interesting tutorial? Click a button. See a cool project on X? One clic
 
 ---
 
-## Name Ideas
-
-| Name | Vibe |
-|------|------|
-| **BuildFlow** | Smooth flow from discovery to implementation |
-| **LearnForge** | Forging knowledge into code |
-| **CodeHarvest** | Harvesting code from the web |
-| **ClickToCode** | One click to working code |
-| **BuildBridge** | Bridge between discovery and implementation |
-| **Distillery** | Distilling articles into working code |
-| **SparkBuild** | Spark of inspiration → built project |
-| **InkToCode** | Written content to executable code |
-
----
-
 ## What It Does
 
 ```
