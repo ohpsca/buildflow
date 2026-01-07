@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Build & Learn",
+  "version": "1.0.0",
+  "description": "Send URLs and X posts to OpenCode for research and implementation",
+  "permissions": ["activeTab", "storage", "notifications"],
+  "host_permissions": [
+    "https://x.com/*",
+    "https://twitter.com/*",
+    "http://localhost:3456/*"
+  ],
+  "action": {
+    "default_popup": "src/popup/popup.html",
+    "default_title": "Build & Learn"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://x.com/*", "https://twitter.com/*"],
+      "js": ["content-x.js"],
+      "css": ["x-content.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}

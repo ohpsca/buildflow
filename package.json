@@ -1,0 +1,47 @@
+{
+  "name": "buildflow",
+  "version": "1.0.0",
+  "description": "Turn interesting links into working code. Browser extension + Telegram bot that sends URLs to OpenCode for automated research and implementation.",
+  "private": true,
+  "type": "module",
+  "author": "BowTiedSwan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BowTiedSwan/buildflow.git"
+  },
+  "homepage": "https://github.com/BowTiedSwan/buildflow#readme",
+  "bugs": {
+    "url": "https://github.com/BowTiedSwan/buildflow/issues"
+  },
+  "keywords": [
+    "opencode",
+    "research",
+    "automation",
+    "chrome-extension",
+    "telegram-bot",
+    "ai"
+  ],
+  "scripts": {
+    "dev": "pnpm -r --parallel run dev",
+    "build": "pnpm -r run build",
+    "backend": "pnpm --filter @build-learn/backend run dev",
+    "bot": "pnpm --filter @build-learn/telegram-bot run dev",
+    "extension:dev": "pnpm --filter @build-learn/chrome-extension run dev",
+    "extension:build": "pnpm --filter @build-learn/chrome-extension run build",
+    "typecheck": "pnpm -r run typecheck"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "better-sqlite3",
+      "esbuild"
+    ]
+  }
+}

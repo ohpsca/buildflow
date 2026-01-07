@@ -1,0 +1,5 @@
+# This directory stores research outputs from Build & Learn
+# Each research task creates a subfolder with:
+# - REPORT.md - Comprehensive research report
+# - src/ - Implementation code
+# - repo/ - Cloned repositories (if applicable)
